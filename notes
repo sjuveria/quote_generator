@@ -1,0 +1,34 @@
+>> alt+z - word wrap
+>>cmd+option+i - inspect
+
+
+# add git code
+
+>> git init(initialize empty repo)
+>> git remote add origin (copy ssh here)
+>>git remote add origin git@github.com:sjuveria/exampleRepo.git
+>>git remote remove origin(if you want to remove origin)
+
+>>-----if update anything write this-----
+>>git add .
+>> git comit -m 'any message here'
+>>git push origin master
+>>---------------------------------------
+
+## to host a page
+
+>>goto github
+>>goto pages
+>> select master from the dropdown where it was none
+>> save
+>> url will be generated 
+>>that is the url for your site
+>> it takes about 10 mins to open the page
+
+
+>>1 rem=16 px
+>> promise(async and await)
+>>callbacks
+>>@media
+>>
+
